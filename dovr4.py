@@ -1,0 +1,1 @@
+#kicikden boyuye  siralnmis a,b,c ededleri verillib b,c araqlarindaki ededleri sondan evvele  a,b araqalrindaki ededleri  sirlayan kodu yazin

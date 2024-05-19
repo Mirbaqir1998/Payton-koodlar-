@@ -1,0 +1,11 @@
+#say=list.1count(-5)
+#list2=[]
+#list2=list1.copy()
+#list1.sort()
+#list1.reverse()
+#print(len(list1))
+#list1.insret(2,7)
+#print(list1)
+#list1.clear()
+#del(list1)
+#del_number=list1.pop()
